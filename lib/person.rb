@@ -1,4 +1,5 @@
 class Person
+  attr_accessor :name, :birth
  
  
  def initialize(attributes)
